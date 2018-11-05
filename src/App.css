@@ -1,0 +1,16 @@
+body {
+  background-color: #554c76;
+}
+.container {
+  padding-top: 5%;
+}
+
+button {
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+button:hover {
+  border: 3px solid #ffffff;
+  background-color: #346f9d;
+}
